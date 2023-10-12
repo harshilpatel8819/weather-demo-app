@@ -27,7 +27,7 @@ function App() {
       className="mx-auto p-4 h-screen flex justify-center"
       style={{
         backgroundImage:
-          "linear-gradient(rgb(255 255 255 / 6%), rgb(166 198 255)), url(public/weather-bg.jpg)",
+          "linear-gradient(rgb(255 255 255 / 6%), rgb(166 198 255)), url(../src/assets/weather-bg.jpg)",
       }}
     >
       <div className="flex flex-wrap items-center">
